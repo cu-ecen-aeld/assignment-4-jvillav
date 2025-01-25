@@ -6,13 +6,11 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
-AESD_ASSIGNMENTS_VERSION = '435c5449a0d3f26c8fba94ce8bec199298376e9c'
+AESD_ASSIGNMENTS_VERSION = 435c5449a0d3f26c8fba94ce8bec199298376e9c
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
-
-[sudo] password for jorge:
-AESD_ASSIGNMENTS_SITE = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-jvillav.git' #GITHUB REPOSITORY LINK
+AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-jvillav.git #GITHUB REPOSITORY LINK
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
 
